@@ -22,7 +22,7 @@ public class _04_ArrayOrder {
 			System.out.print(arr[i] + " ");
 		}
 		
-		System.out.print();
+		System.out.println();
 		int[] arr2 = {1,6,2,3,10,7,4,5,8,9};
 		System.out.println("정렬 gn 배열 : " + Arrays.toString(arr2));
 		

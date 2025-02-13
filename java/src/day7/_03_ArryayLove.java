@@ -4,7 +4,7 @@ public class _03_ArryayLove {
 
 	public static void main(String[] args) {
 		char[] charArr = {'1','L','O','2','V','3','E'};
-		string love = "";
+		String love = "";
 		
 		for(int i = 0; i < charArr.length; i++) {
 			int word = charArr[i];
